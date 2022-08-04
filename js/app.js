@@ -1,4 +1,4 @@
-import '@popperjs/core';
+//import '@popperjs/core';
 
 
 let toBeDeleted;
